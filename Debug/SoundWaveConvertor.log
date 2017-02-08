@@ -1,0 +1,9 @@
+﻿  SoundWaveConvertor.c
+c:\users\lawrence reyes\desktop\lab5 spo600\soundwaveconvertor\soundwaveconvertor\soundwaveconvertor.c(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\lawrence reyes\desktop\lab5 spo600\soundwaveconvertor\soundwaveconvertor\soundwaveconvertor.c(6): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\lawrence reyes\desktop\lab5 spo600\soundwaveconvertor\soundwaveconvertor\soundwaveconvertor.c(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lawrence reyes\desktop\lab5 spo600\soundwaveconvertor\soundwaveconvertor\soundwaveconvertor.c(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lawrence reyes\desktop\lab5 spo600\soundwaveconvertor\soundwaveconvertor\soundwaveconvertor.c(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lawrence reyes\desktop\lab5 spo600\soundwaveconvertor\soundwaveconvertor\soundwaveconvertor.c(103): warning C4305: 'return': truncation from 'double' to 'float'
+  SoundWaveConvertor.vcxproj -> C:\Users\Lawrence Reyes\Desktop\Lab5 SPO600\SoundWaveConvertor\Debug\SoundWaveConvertor.exe
+  SoundWaveConvertor.vcxproj -> C:\Users\Lawrence Reyes\Desktop\Lab5 SPO600\SoundWaveConvertor\Debug\SoundWaveConvertor.pdb (Partial PDB)
